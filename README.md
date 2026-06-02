@@ -26,7 +26,6 @@ A Loja de Ferramentas é uma aplicação web que permite o cadastro e gerenciame
 - MySQL
 - Blade
 - Tailwind CSS
-- Eloquent ORM
 
 ## 📂 Estrutura de Dados
 

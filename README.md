@@ -110,12 +110,7 @@ As imagens das ferramentas são armazenadas utilizando o sistema de armazenament
 php artisan storage:link
 ```
 
-## 👩‍💻 Desenvolvedora
-
-Nathalia
-
-Projeto desenvolvido para fins acadêmicos e aprendizado em desenvolvimento web com Laravel.
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais.
+Projeto desenvolvido para fins acadêmicos e aprendizado em desenvolvimento web com Laravel.
